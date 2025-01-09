@@ -435,6 +435,12 @@ import java.util.*;
 
 /**
  * one more star pattern
+ ****
+ ***
+ **
+ *
+ * 
+ * 
  */
 // public class gfg {
 
