@@ -105,3 +105,26 @@
  */
 
 // Chocolate Distribution Problem
+
+// import java.util.*;
+
+// public class Details{
+//     public static void main(String[] args){
+
+//         Scanner sc = new Scanner(System.in);
+//         int n = sc.nextInt();
+//         String name = sc.nextLine();
+//         System.out.println("n is " + n);
+//         System.out.println("the name is : " + name);
+
+//     }
+// }
+
+import java.util.*;
+
+class Main {
+    public static void main(String[] args) {
+        String name = "Tarun";
+
+    }
+}
